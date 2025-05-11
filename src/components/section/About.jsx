@@ -52,7 +52,7 @@ export const About = () => {
           alt="profile"
         />
         <div className='glass rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all'>
-          <p className='text-gray-300 mb-6 font-sans'>
+          <p className='text-gray-300 mb-6 font-sans tracking-wide'>
             A passionate Full Stack Web Developer and skilled Python Programmer, focused on building scalable,
             user-friendly digital experiences. With hands-on expertise in both front-end and back-end technologies,
             I enjoy transforming ideas into powerful, real-world web applications. <br /><br />
