@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepag":"https://codewithvishwa.github.io/vishwa-portfolio/",
+  "homepage": "https://codewithvishwa.github.io/vishwa-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
